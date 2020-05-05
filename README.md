@@ -20,6 +20,9 @@
 	<li> writeFIFO.cc -> Writes FIFO files </li>
 	<li> symlinkpath.cc -> Creates symbolic link and find the path of original file </li>
 	<li> symlinkcontent.c -> Create symbolic link and reads content from the link </li>
+	<li> readDir.c -> illustrates readdir api </li>
+	<li> makeDir.c -> illustrates mkdir api </li>
+	<li> rewindDir.c -> illustrates rewinddir api </li>
 	
 </ol>
 
