@@ -23,6 +23,11 @@
 	<li> readDir.c -> illustrates readdir api </li>
 	<li> makeDir.c -> illustrates mkdir api </li>
 	<li> rewindDir.c -> illustrates rewinddir api </li>
+	<li> childandparent.c -> shows how to create parent and child processes </li>
+	<li> circleandsquare.c -> shows how to achieve different tasks using child and parent processes </li>
+	<li> zombie.c -> creates a zombie process </li>
+	<li> orphan.c -> illustrates how to create orphan process </li>
+	<li> race.c -> illustrates race condition </li>
 	
 </ol>
 
